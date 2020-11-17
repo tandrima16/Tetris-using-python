@@ -2,7 +2,7 @@
 -----
 This project is made using the pygame module in Python. 
 -----
-## Features of this game 
+## Features of this project
 - Multi-Dimensional List Processing
 - Game Loops
 - Basic Pygame Graphics
